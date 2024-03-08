@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/wolf_armor",
+    "layer1": "minecraft:item/wolf_armor_overlay"
+  },
+  "overrides": [
+    {
+      "model": "puppers:item/flying_armor",
+      "predicate": {
+        "custom_model_data": 4173003
+      }
+    }
+  ]
+}

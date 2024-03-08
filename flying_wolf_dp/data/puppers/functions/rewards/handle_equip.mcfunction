@@ -1,0 +1,2 @@
+execute at @s as @e[type=wolf,nbt={body_armor_item:{components:{"minecraft:custom_model_data":4173003}}},sort=nearest,limit=1] run function puppers:convert_wolf
+advancement revoke @s only puppers:equip

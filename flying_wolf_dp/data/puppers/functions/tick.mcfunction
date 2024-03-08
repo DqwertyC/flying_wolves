@@ -1,0 +1,1 @@
+execute as @e[tag=wolf_mount] run data merge entity @e[tag=wolf_mount,limit=1] {Age:0,AngerTime:0,CannotEnterHiveTicks:20,HasNectar:0,HasStung:0} 

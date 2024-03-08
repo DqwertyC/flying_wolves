@@ -1,0 +1,15 @@
+{
+	"category": "blocks",
+	"type": "crafting_shaped",
+	"pattern": [
+		"E",
+		"A",
+		"W"
+	],
+	"key": {
+		"E": { "item": "minecraft:elytra" },
+		"A": { "item": "minecraft:wolf_armor" },
+		"W": { "item": "minecraft:wind_charge" }
+	},
+	"result": {"id":"minecraft:wolf_armor", "count":1,"components":{"minecraft:custom_model_data":4173003,"minecraft:custom_name":"{\"text\":\"Flying Wolf Armor\",\"italic\":false}"}}
+}

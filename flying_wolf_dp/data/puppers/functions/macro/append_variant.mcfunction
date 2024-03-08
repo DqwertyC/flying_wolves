@@ -1,0 +1,1 @@
+$data modify entity @s variant set value "puppers:flying_$(variant)"

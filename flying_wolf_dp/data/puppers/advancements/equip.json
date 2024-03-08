@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "interact_end_relay": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:wolf"
+        },
+        "item": {
+          "items":["minecraft:wolf_armor"],
+          "components":
+          {
+            "minecraft:custom_model_data": 4173003
+          }
+        }
+      }
+    }
+  },
+  "rewards": { "function": "puppers:rewards/handle_equip" }
+}

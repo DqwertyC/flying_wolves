@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "puppers:item/flying_armor",
+    "layer1": "puppers:item/flying_armor_overlay"
+  }
+}

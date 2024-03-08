@@ -1,0 +1,6 @@
+{
+  "angry_texture": "puppers:textures/entity/wolf/flying_wolf_spotted_angry.png",
+  "tame_texture": "puppers:textures/entity/wolf/flying_wolf_spotted_tame.png",
+  "texture": "puppers:textures/entity/wolf/flying_wolf_spotted.png",
+  "biomes": "minecraft:the_end"
+}

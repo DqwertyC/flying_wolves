@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "interact_end_relay": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:wolf"
+        }
+      }
+    }
+  },
+  "rewards": { "function": "puppers:rewards/handle_interact" }
+}
